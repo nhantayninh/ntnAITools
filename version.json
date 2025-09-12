@@ -1,0 +1,23 @@
+{
+  "version": "3.0.0",
+  "release_date": "2025-09-12",
+  "update_message": "Phiên bản 3.0.0 - NTN AI Tools với Trợ lý Gemini",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.0.0/ntnAITools_v3.0.0.zip",
+  "features": [
+    "Thêm tính năng tạo đề kiểm tra theo ma trận",
+    "Cải thiện tính năng chọn vùng chọn, không cần chỉnh Scale màn hình về 100%",
+    "Cải thiện tính năng chuyển file .tex sang file Word",
+    "Tối ưu hóa tốc độ xử lý"
+  ],
+  "bugfixes": [
+    "Sửa lỗi tạo đề kiểm tra theo ma trận",
+    "Sửa lỗi chọn vùng chọn, không cần chỉnh Scale màn hình về 100%",
+    "Khắc phục lỗi mất công thức khi chuyển tex sang word"
+  ],
+  "requirements": {
+    "python": ">=3.8",
+    "os": ["Windows 10", "Windows 11"]
+  },
+  "file_size": "25.6 MB",
+  "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
+}
