@@ -4,7 +4,7 @@
       "version": "3.1.0",
       "release_date": "2025.09.14",
       "status": "Stable",
-      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/ntnAITools_v3.1.0.zip",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/NTN_AI_Tools_Setup.exe",
       "changelog": "Chính thức đổi tên thành NTN AI Tools cho phù hợp với tính năng",
       "features": [
         "Cải thiện tính năng chuyển đổi PDF thành Word: Chuyển file nhiều trang một lần",
