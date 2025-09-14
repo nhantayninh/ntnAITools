@@ -1,20 +1,24 @@
 {
-  "version": "3.0.0",
-  "release_date": "2025-09-12",
-  "update_message": "Phiên bản 3.0.0 - NTN AI Tools với Trợ lý Gemini",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.0.0/ntnAITools_v3.0.0.zip",
+  "version": "3.1.0",
+  "release_date": "2025-09-14",
+  "update_message": "Phiên bản 3.1.0 - NTN AI Tools với Trợ lý Gemini",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/NTN_AI_Tools_Setup.exe",
+  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/ntnAITools_v3.1.0.zip",
+  "file_type": "exe",
   "features": [
-    "Thêm tính năng AI soạn giáo án, trả lời câu hỏi từ tài liệu do người dùng tải lên",
-    "Chính thức đổi tên thành NTN AI Tools cho phù hợp hơn với tính năng của phần mềm"
+    "Cải thiện tính năng chuyển đổi PDF thành Word: Chuyển file nhiều trang một lần",
+    "Tối ưu hóa tốc độ xử lý",
+    "Sửa lỗi một số lỗi nhỏ",
+    "Hỗ trợ cập nhật tự động bằng file setup exe"
   ],
   "bugfixes": [
-    "Sửa một số lỗi nhỏ của phần mềm"
+    "Sửa lỗi một số lỗi nhỏ"
   ],
   "requirements": {
     "python": ">=3.8",
     "os": ["Windows 10", "Windows 11"]
   },
-  "file_size": "25.6 MB",
+  "file_size": "25.7 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
-
 }
