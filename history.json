@@ -1,6 +1,19 @@
 {
   "releases": [
     {
+      "version": "3.1.1",
+      "release_date": "2025.09.15",
+      "status": "Stable",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/NTN_AI_Tools_Setup.exe",
+      "changelog": "Sửa lỗi một số tính năng",
+      "features": [
+        "Cải thiện tính năng chụp màn hình: Không cần chỉnh Scale về 100% nữa"
+      ],
+      "improvements": [
+        "Sửa một số lỗi nhỏ khác"
+      ]
+    },
+    {
       "version": "3.1.0",
       "release_date": "2025.09.14",
       "status": "Stable",
