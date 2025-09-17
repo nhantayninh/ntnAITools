@@ -1,16 +1,15 @@
 {
-  "version": "3.1.0",
-  "release_date": "2025-09-14",
-  "update_message": "Phiên bản 3.1.0 - NTN AI Tools với Trợ lý Gemini",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/NTN_AI_Tools_Setup.exe",
-  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.0/ntnAITools_v3.1.0.zip",
+  "version": "3.1.2",
+  "release_date": "2025-09-18",
+  "update_message": "Phiên bản 3.1.2 - NTN AI Tools với Trợ lý Gemini",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.2/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.2/NTN_AI_Tools_Setup.exe",
+  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.2/ntnAITools_v3.1.2.zip",
   "file_type": "exe",
   "features": [
-    "Cải thiện tính năng chuyển đổi PDF thành Word: Chuyển file nhiều trang một lần",
-    "Tối ưu hóa tốc độ xử lý",
-    "Sửa lỗi một số lỗi nhỏ",
-    "Hỗ trợ cập nhật tự động bằng file setup exe"
+    "Cải thiện tính năng chuyển PDF thành Word: Chỉ những hình được đánh dấu mới trích ảnh sang Word",
+    "Quản lý Gemini API key tập trung hơn: Dùng 1 API key duy nhất",
+    "Thêm tính năng cho phép người dùng tự nhập mô hình Gemini"
   ],
   "bugfixes": [
     "Sửa lỗi một số lỗi nhỏ"
@@ -22,3 +21,4 @@
   "file_size": "25.7 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
+
