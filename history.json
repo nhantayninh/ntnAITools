@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "3.1.3",
+      "release_date": "2025.09.18",
+      "status": "Stable",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.3/NTN_AI_Tools_Setup.exe",
+      "changelog": "Sửa lỗi một số tính năng quan trọng",
+      "features": [
+        "Cải thiện tính năng chuyển PDF thành Word: Tự động chọn model Gemini nếu hết quota",
+    "Tự động chọn model Gemini cho các chức năng AI khác",
+    "Cải thiện tính năng chuyển đổi PDF sang Word"
+      ],
+      "improvements": [
+        "Sửa một số lỗi nhỏ khác"
+      ]
+    },
+    {
       "version": "3.1.2",
       "release_date": "2025.09.18",
       "status": "Stable",
