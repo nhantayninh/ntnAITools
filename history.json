@@ -1,14 +1,13 @@
 {
   "releases": [
     {
-      "version": "3.1.4",
-      "release_date": "2025.09.19",
+      "version": "3.1.6",
+      "release_date": "2025.09.21",
       "status": "Stable",
-      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.4/NTN_AI_Tools_Setup.exe",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.6/NTN_AI_Tools_Setup.exe",
       "changelog": "Sửa lỗi một số tính năng quan trọng",
       "features": [
-        "Sửa lỗi tự đóng chương trình khi đánh dấu ảnh",
-        "Cải thiện tính năng cập nhật tự động"
+        "Sửa lỗi tính năng của chương trình"
       ],
       "improvements": [
         "Sửa một số lỗi nhỏ khác"
