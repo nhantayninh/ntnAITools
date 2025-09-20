@@ -1,14 +1,13 @@
 {
-  "version": "3.1.4",
-  "release_date": "2025-09-19",
-  "update_message": "Phiên bản 3.1.4 - NTN AI Tools với Trợ lý Gemini",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.4/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.4/NTN_AI_Tools_Setup.exe",
-  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.4/ntnAITools_v3.1.4.zip",
+  "version": "3.1.6",
+  "release_date": "2025-09-21",
+  "update_message": "Phiên bản 3.1.6 - NTN AI Tools với Trợ lý Gemini",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.6/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.6/NTN_AI_Tools_Setup.exe",
+  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.6/ntnAITools_v3.1.6.zip",
   "file_type": "exe",
   "features": [
-    "Sửa lỗi tự đóng chương trình khi đánh dấu ảnh",
-    "Cải thiện tính năng cập nhật tự động"
+    "Cải thiện một số tính năng của phần mềm"
   ],
   "bugfixes": [
     "Sửa lỗi một số lỗi nhỏ"
@@ -20,3 +19,4 @@
   "file_size": "26.2 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
+
