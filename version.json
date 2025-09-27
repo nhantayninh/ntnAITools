@@ -1,13 +1,16 @@
 {
-  "version": "3.1.6",
-  "release_date": "2025-09-21",
-  "update_message": "Phiên bản 3.1.6 - NTN AI Tools với Trợ lý Gemini",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.6/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.6/NTN_AI_Tools_Setup.exe",
-  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.6/ntnAITools_v3.1.6.zip",
+  "version": "3.1.8",
+  "release_date": "2025-09-27",
+  "update_message": "Phiên bản 3.1.8",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.8/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.8/NTN_AI_Tools_Setup.exe",
+  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.8/ntnAITools_v3.1.8.zip",
   "file_type": "exe",
   "features": [
-    "Cải thiện một số tính năng của phần mềm"
+    "Sửa lỗi tính năng của chương trình",
+    "Thay đổi biểu tượng robot thành thanh toolbar",
+    "Bổ sung tính năng chụp ảnh màn hình và lưu bộ nhớ tạm",
+    "Bổ sung tính năng trích xuất text thường (không dùng công thức toán)"
   ],
   "bugfixes": [
     "Sửa lỗi một số lỗi nhỏ"
@@ -19,4 +22,5 @@
   "file_size": "26.2 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
+
 
