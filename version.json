@@ -1,16 +1,14 @@
 {
-  "version": "3.1.8",
-  "release_date": "2025-09-27",
-  "update_message": "Phiên bản 3.1.8",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.8/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.8/NTN_AI_Tools_Setup.exe",
-  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.8/ntnAITools_v3.1.8.zip",
+  "version": "3.1.10",
+  "release_date": "2025-09-30",
+  "update_message": "Phiên bản 3.1.10",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/NTN_AI_Tools_Setup.exe",
+  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/ntnAITools_v3.1.10.zip",
   "file_type": "exe",
   "features": [
-    "Sửa lỗi tính năng của chương trình",
-    "Thay đổi biểu tượng robot thành thanh toolbar",
-    "Bổ sung tính năng chụp ảnh màn hình và lưu bộ nhớ tạm",
-    "Bổ sung tính năng trích xuất text thường (không dùng công thức toán)"
+    "Thêm các tính năng cần thiết cho chức năng chụp màn hình chuyển sang Word",
+    "Sửa lỗi yêu cầu nhập key mỗi lần cập nhật"
   ],
   "bugfixes": [
     "Sửa lỗi một số lỗi nhỏ"
@@ -22,5 +20,6 @@
   "file_size": "26.2 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
+
 
 
