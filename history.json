@@ -2,7 +2,7 @@
   "releases": [
     {
       "version": "3.1.10",
-      "release_date": "2025.09.27",
+      "release_date": "2025.09.30",
       "status": "Stable",
       "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/NTN_AI_Tools_Setup.exe",
       "changelog": "Sửa lỗi một số tính năng quan trọng",
