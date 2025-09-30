@@ -1,16 +1,17 @@
 {
   "releases": [
     {
-      "version": "3.1.8",
+      "version": "3.1.10",
       "release_date": "2025.09.27",
       "status": "Stable",
-      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.8/NTN_AI_Tools_Setup.exe",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/NTN_AI_Tools_Setup.exe",
       "changelog": "Sửa lỗi một số tính năng quan trọng",
       "features": [
-        "Sửa lỗi tính năng của chương trình",
-        "Thay đổi biểu tượng robot thành thanh toolbar",
-        "Bổ sung tính năng chụp ảnh màn hình và lưu bộ nhớ tạm",
-        "Bổ sung tính năng trích xuất text thường (không dùng công thức toán)"
+         "Thêm các tính năng cần thiết cho chức năng chụp màn hình chuyển sang Word",
+         "Sửa lỗi yêu cầu nhập key mỗi lần cập nhật",
+        "Thêm tính năng lưu ảnh chụp màn hình",
+        "Thêm tính năng nhận dạng text không dùng latex",
+        "Thêm tính năng tạo các điểm neo để thay đổi vùng chụp"
       ],
       "improvements": [
         "Sửa một số lỗi nhỏ khác"
