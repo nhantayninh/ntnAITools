@@ -1,10 +1,10 @@
 {
   "releases": [
     {
-      "version": "3.2.2",
+      "version": "3.2.1",
       "release_date": "2025.10.09",
       "status": "Stable",
-      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/NTN_AI_Tools_Setup.exe",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.1/NTN_AI_Tools_Setup.exe",
       "changelog": "Sửa lỗi một số tính năng quan trọng",
       "features": [
           "Bổ sung tính năng hỏi AI trong Word với tài liệu tải lên",
