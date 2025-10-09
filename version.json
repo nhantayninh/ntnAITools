@@ -1,14 +1,15 @@
 {
-  "version": "3.1.10",
-  "release_date": "2025-09-30",
-  "update_message": "Phiên bản 3.1.10",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/NTN_AI_Tools_Setup.exe",
-  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.1.10/ntnAITools_v3.1.10.zip",
+  "version": "3.2.2",
+  "release_date": "2025-10-08",
+  "update_message": "Phiên bản 3.2.2 - NTN AI Tools",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/NTN_AI_Tools_Setup.exe",
+  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/ntnAITools_v3.2.2.zip",
   "file_type": "exe",
   "features": [
-    "Thêm các tính năng cần thiết cho chức năng chụp màn hình chuyển sang Word",
-    "Sửa lỗi yêu cầu nhập key mỗi lần cập nhật"
+    "Bổ sung tính năng hỏi AI trong Word với tài liệu tải lên",
+    "Cập nhật tính năng tự động trích xuất ảnh trong PDF to Word",
+    "Cập nhật tính năng vẽ bảng biến thiên bằng TikZ thuần khi nhận dạng từ ảnh"
   ],
   "bugfixes": [
     "Sửa lỗi một số lỗi nhỏ"
@@ -17,9 +18,6 @@
     "python": ">=3.8",
     "os": ["Windows 10", "Windows 11"]
   },
-  "file_size": "26.2 MB",
+  "file_size": "25.7 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
-
-
-
