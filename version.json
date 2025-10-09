@@ -1,10 +1,10 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "release_date": "2025-10-08",
-  "update_message": "Phiên bản 3.2.1 - NTN AI Tools",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.1/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.1/NTN_AI_Tools_Setup.exe",
-  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.1/ntnAITools_v3.2.1.zip",
+  "update_message": "Phiên bản 3.2.2 - NTN AI Tools",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/NTN_AI_Tools_Setup.exe",
+  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/ntnAITools_v3.2.2.zip",
   "file_type": "exe",
   "features": [
     "Bổ sung tính năng hỏi AI trong Word với tài liệu tải lên",
@@ -21,4 +21,5 @@
   "file_size": "25.7 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
+
 
