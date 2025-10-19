@@ -1,15 +1,16 @@
 {
-  "version": "3.2.2",
-  "release_date": "2025-10-08",
-  "update_message": "Phiên bản 3.2.2 - NTN AI Tools",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/NTN_AI_Tools_Setup.exe",
-  "zip_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.2/ntnAITools_v3.2.2.zip",
+  "version": "3.2.8",
+  "release_date": "2025-10-19",
+  "update_message": "Phiên bản 3.2.8 - NTN AI Tools",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.8/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.8/NTN_AI_Tools_Setup.exe",
   "file_type": "exe",
   "features": [
-    "Bổ sung tính năng hỏi AI trong Word với tài liệu tải lên",
-    "Cập nhật tính năng tự động trích xuất ảnh trong PDF to Word",
-    "Cập nhật tính năng vẽ bảng biến thiên bằng TikZ thuần khi nhận dạng từ ảnh"
+    "Thêm tính năng tạo ảnh AI từ mô tả văn bản",
+    "Sửa lỗi mất thanh công cụ khi thu nhỏ ứng dụng",
+    "Thêm tính năng dịch ngôn ngữ trong Word và khi nhận dạng ảnh chụp màn hình",
+    "Thêm xác nhận khi đóng ứng dụng",
+    "Sửa lỗi tính năng khởi động cùng Windows"
   ],
   "bugfixes": [
     "Sửa lỗi một số lỗi nhỏ"
@@ -21,5 +22,6 @@
   "file_size": "25.7 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
+
 
 
