@@ -1,6 +1,24 @@
 {
   "releases": [
     {
+      "version": "3.2.8",
+      "release_date": "2025.10.19",
+      "status": "Stable",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.8/NTN_AI_Tools_Setup.exe",
+      "changelog": "Sửa lỗi một số tính năng quan trọng",
+      "features": [
+          "Thêm tính năng tạo ảnh AI từ mô tả văn bản",
+    "Sửa lỗi mất thanh công cụ khi thu nhỏ ứng dụng",
+        "Thêm tính năng dịch ngôn ngữ trong Word và khi nhận dạng văn bản chụp ảnh màn hình",
+    "Thêm xác nhận khi đóng ứng dụng",
+    "Sửa lỗi tính năng khởi động cùng Windows"
+
+      ],
+      "improvements": [
+        "Sửa một số lỗi nhỏ khác"
+      ]
+    },
+    {
       "version": "3.2.2",
       "release_date": "2025.10.08",
       "status": "Stable",
