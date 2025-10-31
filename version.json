@@ -1,16 +1,19 @@
 {
-  "version": "3.2.9",
-  "release_date": "2025-10-30",
-  "update_message": "Phiên bản 3.2.9 - NTN AI Tools",
-  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.9/NTN_AI_Tools_Setup.exe",
-  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.9/NTN_AI_Tools_Setup.exe",
+  "version": "3.3.0",
+  "release_date": "2025-10-31",
+  "update_message": "Phiên bản 3.3.0 - NTN AI Tools",
+  "url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.3.0/NTN_AI_Tools_Setup.exe",
+  "exe_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.3.0/NTN_AI_Tools_Setup.exe",
   "file_type": "exe",
   "features": [
-    "Thêm tính năng tạo ảnh AI từ mô tả văn bản",
-    "Sửa lỗi mất thanh công cụ khi thu nhỏ ứng dụng",
-    "Thêm tính năng dịch ngôn ngữ trong Word và khi nhận dạng ảnh chụp màn hình",
-    "Thêm xác nhận khi đóng ứng dụng",
-    "Sửa lỗi tính năng khởi động cùng Windows"
+    "Thêm tính năng tự tạo prompt tuỳ chỉnh:",
+    "- Tạo đề kiểm tra theo ma trận",
+    "- Chấm bài tự luận",
+    "- Câu hỏi tài liệu",
+    "- Dịch thuật",
+    "- OCR chụp ảnh",
+    "- Hỏi AI trong Word",
+    "- Chat với AI"
   ],
   "bugfixes": [
     "Sửa lỗi một số lỗi nhỏ"
@@ -22,6 +25,7 @@
   "file_size": "25.7 MB",
   "changelog_url": "https://github.com/nhantayninh/ntnAITools/blob/main/CHANGELOG.md"
 }
+
 
 
 
