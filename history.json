@@ -1,19 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.2.9",
-      "release_date": "2025.10.30",
+      "version": "3.3.0",
+      "release_date": "2025.10.31",
       "status": "Stable",
-      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.2.9/NTN_AI_Tools_Setup.exe",
+      "download_url": "https://github.com/nhantayninh/ntnAITools/releases/download/v3.3.0/NTN_AI_Tools_Setup.exe",
       "changelog": "Sửa lỗi một số tính năng quan trọng",
       "features": [
-          "Thêm tính năng tạo ảnh AI từ mô tả văn bản",
-    "Sửa lỗi mất thanh công cụ khi thu nhỏ ứng dụng",
-        "Thêm tính năng dịch ngôn ngữ trong Word và khi nhận dạng văn bản chụp ảnh màn hình",
-    "Thêm xác nhận khi đóng ứng dụng",
-    "Sửa lỗi tính năng khởi động cùng Windows",
-        "Cập nhật tính năng hỏi AI với tài liệu được tải lên"
-
+     "Thêm tính năng tự tạo prompt tuỳ chỉnh:",
+    "- Tạo đề kiểm tra theo ma trận",
+    "- Chấm bài tự luận",
+    "- Câu hỏi tài liệu",
+    "- Dịch thuật",
+    "- OCR chụp ảnh",
+    "- Hỏi AI trong Word",
+    "- Chat với AI"
       ],
       "improvements": [
         "Sửa một số lỗi nhỏ khác"
